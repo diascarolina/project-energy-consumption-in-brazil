@@ -18,7 +18,7 @@
 10. [Contatos](#contacts)
 
 <a name="intro"></a>
-# Introdução do Problema
+# 1 Introdução do Problema
 
 Reduzir custos e aumentar os lucros é um dos pilares da maioria das empresas existentes. No setor de energia elétrica, isso não seria diferente. Grandes indústrias do ramo de eletricidade buscam otimizar seus processos para a diminuição de desperdícios na produção.
 
@@ -35,7 +35,7 @@ Com essa problematização, temos a tarefa de realizar exatamente isso: construi
 ### 🟢 Um relatório em PDF com as principais conclusões e resolução das questões encontra-se [aqui]().
 
 <a name="data"></a>
-# Dados
+# 2 Dados
 
 Os dados fornecidos contém informações sobre o consumo de energia nas 5 regiões do Brasil, além de diversas outras informações relevantes, como informações socioeconômicas e de produção comercial/industrial.
 
@@ -50,7 +50,7 @@ Os dados também passaram pela seguinte divisão:
 - **Dados para a previsão:** Março de 2021 a dezembro de 2022.
 
 <a name="methods"></a>
-# Metodologia
+# 3 Metodologia
 
 O projeto se inicia com uma análise das variáveis que tem relação direta com a região sudeste. Foi analisada a série temporal de cada uma e a correlação entre variáveis relevantes entre si.
 
@@ -89,7 +89,7 @@ O modelo de SVR (Support Vector Regression) é a versão "de regressão" do Supp
 Aqui não temos um modelo em si, mas sim uma biblioteca que testa os modelos do Scikit-Learn de uma vez, com o objetivo de comparação entre eles. Ao transformarmos o problema da série temporal em um problema de aprendizagem supervisionada, os modelos de regressão podem ser aplicados para a previsão.
 
 <a name="conclusion"></a>
-# Conclusão
+# 4 Conclusão
 
 Após a aplicação dos modelos obtemos os seguintes resultados para as métricas **Mean Absolute Value (MAE)**, **Mean Squared Error (MSE)** e Root **Mean Squared Error (RMSE)** calculadas nos dados de teste, e obtemos os seguintes dados:
 
@@ -112,7 +112,7 @@ O gráfico a seguir mostra o resultado dessa previsão.
 </p>
 
 <a name="questions"></a>
-# Solução das Questões
+# 5 Solução das Questões
 
 Essas foram as questões propostas. Abaixo tem um resumo de cada uma delas.
 
@@ -135,12 +135,12 @@ Uma resolução mais detalhada pode ser encontrada [aqui]().
 > A modelagem de série temporais (como é o caso do consumo de energia da indústria no Sudeste) não é uma tarefa trivial. Como todo problema que utilizará aprendizado do máquina, é preciso grande cuidado na hora se escolher e separar as variáveis, além de termos atenção com o fator temporal. Ao traduzirmos o problema de séries temporais para um problema de aprendizagem supervisionada, podemos realizar a aplicação de modelos mais "comuns" de regressão, ao invés dos específicos de previsão de séries temporais, como o modelo SARIMA e a biblioteca FB Prophet.
 
 <a name="props"></a>
-# Propostas de Melhoria
+# 6 Propostas de Melhoria
 
 A maior limitação que tive nesse projeto foi o tempo disponível para realizá-lo. Como melhoria, proponho um melhor ajuste dos hiperparâmetros utilizados nos modelos, para a obtenção de valores mais bem acurados para a série temporal do consumo de energia da indústria no sudeste. Criação de funções para as principais atividades também é uma necessidade, pela questão de escalabilidade do projeto. Também, analisar os dados das outras regiões para expandir o escopo do projeto é essencial.
 
 <a name="techs"></a>
-# Tecnologias Utilizadas
+# 7 Tecnologias Utilizadas
 
 O notebook _.ipynb_ principal foi produzido no [Google Colab](https://colab.research.google.com/) devido sua praticidade para esse tipo de solução.
 
@@ -158,7 +158,7 @@ As principais bibliotecas utilizadas foram:
 Todos os detalhes encontram-se no [notebook principal](https://github.com/diascarolina/project-energy-consumption-in-brazil/blob/main/notebooks/projeto_consumo_de_energia.ipynb).
 
 <a name="refs"></a>
-# Referências
+# 8 Referências
 
 - [4intelligence](https://4intelligence.com.br/mvpe/)
 - [A Importância de uma Gestão de Energia Eficiente](https://blog.bcntreinamentos.com.br/gestao-de-energia/amp/)
@@ -168,12 +168,12 @@ Todos os detalhes encontram-se no [notebook principal](https://github.com/diasca
 - [Imagem do Banner](https://unsplash.com/photos/Z_dnvde5wxc)
 
 <a name="obs"></a>
-# Observações
+# 9 Observações
 
 Esse projeto é parte de um case técnico da empresa [4intelligence](https://4intelligence.com.br/mvpe/), especializada em desenvolver plataformas de inteligência competitiva B2B para suporte na tomada de decisões estratégicas e táticas. Agradeço pela oportunidade.
 
 <a name="contacts"></a>
-# Contatos
+# 10 Contatos
 - Github: https://github.com/diascarolina
 - Linkedin: https://www.linkedin.com/in/carodias/
 - E-mail: [carolinadiasw@gmail.com](mailto:carolinadiasw@gmail)

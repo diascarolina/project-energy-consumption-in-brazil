@@ -37,7 +37,7 @@ Com essa problematização, temos a tarefa de realizar exatamente isso: construi
 <a name="data"></a>
 # 2 Dados
 
-Os dados fornecidos contém informações sobre o consumo de energia nas 5 regiões do Brasil, além de diversas outras informações relevantes, como informações socioeconômicas e de produção comercial/industrial.
+Os dados fornecidos contém informações sobre o consumo de energia nas 5 regiões do Brasil, além de diversas outras informações relevantes, como informações socioeconômicas e de produção comercial/industrial, no período de Janeiro de 2004 a Fevereiro de 2021.
 
 Os dados originais podem ser encontrados [aqui](https://github.com/diascarolina/project-energy-consumption-in-brazil/blob/main/data/Bases_Final_ADS_Jun2021.xlsx).
 

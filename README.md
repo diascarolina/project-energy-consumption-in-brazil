@@ -30,7 +30,7 @@ Com isso em mente, fica evidente que é necessário cada vez mais desenvolvermos
 
 Com essa problematização, temos a tarefa de realizar exatamente isso: construir um modelo de aprendizagem de máquina para prever o futuro consumo de energia elétrica para que a oferta seja ajustada de acordo com a demanda. No caso do atual projeto, queremos **prever o consumo de energia elétrica da indústria na região sudeste do Brasil**.
 
-### 🟢 O notebook com o projeto pode ser encontrado [aqui](https://github.com/diascarolina/project-energy-consumption-in-brazil/blob/main/notebooks/projeto_consumo_de_energia.ipynb).
+### 🟢 O notebook com o projeto pode ser encontrado [aqui](https://github.com/diascarolina/project-energy-consumption-in-brazil/blob/main/notebooks/projeto_consumo_de_energia.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diascarolina/project-energy-consumption-in-brazil/blob/main/notebooks/projeto_consumo_de_energia.ipynb).
 
 ### 🟢 Um relatório em PDF com as principais conclusões e resolução das questões encontra-se [aqui]().
 

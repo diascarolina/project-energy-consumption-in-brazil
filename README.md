@@ -165,6 +165,7 @@ Todos os detalhes encontram-se no [notebook principal](https://github.com/diasca
 - [Indústria 4.0 pode mudar o cenário do consumo de energia no Brasil](https://valor.globo.com/google/amp/patrocinado/weg/weg/noticia/2019/08/05/industria-4-0-pode-mudar-o-cenario-do-consumo-de-energia-no-brasil.ghtml)
 - [Time Series Forecasting with XGBoost](https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-xgboost)
 - [Multivariate Time Series Forecasting](https://towardsdatascience.com/multivariate-time-series-forecasting-653372b3db36)
+- [Imagem do Banner](https://unsplash.com/photos/Z_dnvde5wxc)
 
 <a name="obs"></a>
 # Observações

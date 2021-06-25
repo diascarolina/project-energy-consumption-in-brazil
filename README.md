@@ -132,7 +132,7 @@ Uma resolução mais detalhada pode ser encontrada [aqui]().
 
 ### Questão 04. O que é possível tirar de conclusões a partir dos exercícios 1, 2, e 3?
 
-> A modelagem de série temporais (como é o caso do consumo de energia da indústria no Sudeste) não é uma tarefa trivial. Como todo problema que utilizará aprendizado do máquina, é preciso grande cuidado na hora se escolher e separar as variáveis, além de termos atenção com o fator temporal. Ao traduzirmos o problema de séries temporais para um problema de aprendizagem supervisionada, podemos realizar a aplicação de modelos mais "comuns" de regressão, ao invés dos específicos de previsão de séries temporais, como o modelo SARIMA e a biblioteca FB Prophet.
+> A modelagem de série temporais (como é o caso do consumo de energia da indústria no Sudeste) não é uma tarefa trivial. Como todo problema que utilizará aprendizado de máquina, é preciso grande cuidado na hora escolher e separar as variáveis, além de termos atenção com o fator temporal. Ao traduzirmos o problema de séries temporais para um problema de aprendizagem supervisionada, podemos realizar a aplicação de modelos mais "comuns" de regressão, ao invés dos específicos de previsão de séries temporais, como o modelo SARIMA e a biblioteca FB Prophet.
 
 <a name="props"></a>
 # 6 Propostas de Melhoria

@@ -32,7 +32,7 @@ Com essa problematização, temos a tarefa de realizar exatamente isso: construi
 
 ### 🟢 O notebook com o projeto pode ser encontrado [aqui](https://github.com/diascarolina/project-energy-consumption-in-brazil/blob/main/notebooks/projeto_consumo_de_energia.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diascarolina/project-energy-consumption-in-brazil/blob/main/notebooks/projeto_consumo_de_energia.ipynb).
 
-### 🟢 Um relatório em PDF com as principais conclusões e resolução das questões encontra-se [aqui]().
+### 🟢 Um relatório em PDF com as análises, conclusões e resolução das questões encontra-se [aqui](https://github.com/diascarolina/project-energy-consumption-in-brazil/blob/main/docs/An%C3%A1lise%20Consumo%20de%20Energia%20no%20Brasil.pdf).
 
 <a name="data"></a>
 # 2 Dados
@@ -116,7 +116,7 @@ O gráfico a seguir mostra o resultado dessa previsão.
 
 Essas foram as questões propostas. Abaixo tem um resumo de cada uma delas.
 
-Uma resolução mais detalhada pode ser encontrada [aqui]().
+Uma resolução mais detalhada pode ser encontrada [aqui](https://github.com/diascarolina/project-energy-consumption-in-brazil/blob/main/docs/An%C3%A1lise%20Consumo%20de%20Energia%20no%20Brasil.pdf).
 
 ### Questão 01. Análise Descritiva: Em anexo, você recebeu uma base de dados (Bases Final ADS Jun2021) com o consumo de energia residencial, comercial e industrial de cada região brasileira. Faça uma análise descritiva das variáveis e, eventualmente, da relação entre elas.
 

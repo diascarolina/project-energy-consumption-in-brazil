@@ -74,7 +74,7 @@ O modelo VAR (Vector Autoregression) é um modelo estatístico de previsão de s
 
 ### Modelo 04: LSTM
 
-LSTM (Long Short Term Memory) é um poderoso modelo de rede neural recorrente (RNN). Seu uso não é exclusivo para séries temporais, mas suas características como uma "memória" persistente o tornam relevantes para esse problema.
+LSTM (Long Short Term Memory) é um poderoso modelo de rede neural recorrente (RNN). Seu uso não é exclusivo para séries temporais, mas suas características como uma "memória" persistente o tornam relevante para esse problema.
 
 ### Modelo 05: XGBoost
 

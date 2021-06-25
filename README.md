@@ -62,7 +62,7 @@ Modelo de previsão ingênua, utilizado como base para a avaliação das métric
 
 ### Modelo 01: SARIMA
 
-O modelo SARIMA (Seasonal Autoregressive Integrated Moving Avarage) foi aqui aplicado por ser amplamente utilizado para a previsão de séries temporais. Como ele é um modelo para séries univariadas, não foi possível utilizar informações extras na sua modelagem, apenas a do consumo de energia elétrica da indústria do sudeste.
+O modelo SARIMA (Seasonal Autoregressive Integrated Moving Average) foi aqui aplicado por ser amplamente utilizado para a previsão de séries temporais. Como ele é um modelo para séries univariadas, não foi possível utilizar informações extras na sua modelagem, apenas a do consumo de energia elétrica da indústria do sudeste.
 
 ### Modelo 02: FB Prophet
 
